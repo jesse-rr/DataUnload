@@ -45,7 +45,7 @@ double price = DataUnload.price();
 String currency = DataUnload.currency();
 ```
 
-##Notes
+## Notes
 
 - All generated data is random but designed to be plausible
 - The library is thread-safe using ThreadLocalRandom
